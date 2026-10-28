@@ -21,3 +21,4 @@ op.det.local_service_conf.model_config:
 op.rec.local_service_conf.model_config:
 pipline:pipeline_http_client.py
 --image_dir:../../doc/imgs/1.jpg
+
